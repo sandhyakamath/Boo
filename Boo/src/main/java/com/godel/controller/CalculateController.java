@@ -26,6 +26,7 @@ public class CalculateController {
 	public String home()
 	{
 		
+		
 		System.out.print("inside home");
 		return "hello";
 	}
